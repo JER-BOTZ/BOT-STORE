@@ -1,24 +1,24 @@
 const fs = require('fs')
 
 // APIKEY OPEN AI
-global.keyopenai  = "TUTOR UDH ADA DI YT JER OFC" // ISI APIKEY LU
+global.keyopenai  = "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" // ISI APIKEY LU
 
 // Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.my.id', // GA USH DI UBAH FLER
+	alfa: 'https://api.zeeoneofc.my.id',
 }
 
 // APIKEY \\
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'ISI APIKEY LU',
+	'https://api.zeeoneofc.my.id': 'jerapikeytod',
 }
 
-global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
-global.namaowner = "JER" // NAMA OWNER
-global.footer_text = "© JER-BOTZ MD" + namabot // NAMA BOT
-global.pp_bot = fs.readFileSync("./image/allmenubot.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
+global.namabot = "NTAN-BOTZ MD" // UBAH JADI NAMA LU
+global.namaowner = "NTAN" // NAMA OWNER
+global.footer_text = "© NTAN-BOTZ MD" + namabot // NAMA BOT
+global.pp_bot = fs.readFileSync("./image/IMG-20230320-WA0060.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
 global.qris = fs.readFileSync("./image/qris.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
-global.owner = ['6281315252010','6281315252010'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
+global.owner = ['6289520175595','6289520175595'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // PEMISAH
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
@@ -30,8 +30,8 @@ global.myweb = "https://s.id/jer-botzofc" // bebas asal jan hapus
 
 
 // NAME STICKER
-global.packname = '© JER-BOTZ' //sticker wm ubah
-global.author = 'Di Buat Oleh JEREMI OFFICIAL' //sticker wm ganti nama kalian
+global.packname = '© NTAN-BOTZ' //sticker wm ubah
+global.author = 'Di Buat Oleh NTAN OFFICIAL' //sticker wm ganti nama kalian
 // UBAH AJA NAMA NYA 
 
 // BUY NO ENC 70K CHAT ME
@@ -245,6 +245,17 @@ ___________________________
 │
 │○ !ffstalk 🅟
 │○ !mlstalk 🅟
+│
+╰❒
+
+╭─❒ 「 GAMES MENU 」 
+│
+│○ !tebakkata
+│○ !tebakgambar
+│○ !tebakbendera
+│○ !caklontong
+│○ !susunkata
+│○ !tebakkalimat
 │
 ╰❒
 
